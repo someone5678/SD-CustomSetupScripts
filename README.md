@@ -25,3 +25,5 @@ LAUNCH OPTIONS:
 ```
 
 Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab.com/popsulfr/steam-deck-tricks#add-konsole-terminal-to-steam-deck-ui)
+
+4. All of the system tinkering will use [rwfus](https://github.com/ValShaped/rwfus).
