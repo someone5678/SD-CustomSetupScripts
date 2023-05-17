@@ -28,3 +28,4 @@ Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab
 # Other useful softwares
 
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader): A plugin loader for the Steam Deck. 
+* [EmuDeck](https://www.emudeck.com): Emulator configurator for Steam Deck.
