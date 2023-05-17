@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=SteamGridDB
+Exec=/run/media/mmcblk0p1/customapps/steam_deck_overwrite_trigger_cal/overwrite_trigger_cal
+Terminal=true
+Type=Application
+StartupNotify=false

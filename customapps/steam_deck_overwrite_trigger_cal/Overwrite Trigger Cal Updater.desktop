@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/run/media/mmcblk0p1/customapps/steam_deck_overwrite_trigger_cal/updater.sh
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en_US]=Overwrite Trigger Cal Updater
+Name=Overwrite Trigger Cal Updater
+Path=
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
