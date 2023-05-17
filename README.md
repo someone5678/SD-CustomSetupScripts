@@ -24,3 +24,7 @@ Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab
 </details>
 
 4. All of the system tinkering will use [rwfus](https://github.com/ValShaped/rwfus).
+
+# Other useful softwares
+
+* [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader): A plugin loader for the Steam Deck. 
