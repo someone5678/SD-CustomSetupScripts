@@ -6,7 +6,8 @@ Sourced from various Steam Deck related repo/news/guides.
 ## Note
 
 1. Most of custom apps will installed on your SDCard.
-2. When add these scripts to Steam Library setup like below will gave you much better experience.
+2. These scripts are considered to use with EmuDeck. So scripts will point out EmuDeck's folders.
+3. When add these scripts to Steam Library setup like below will gave you much better experience.
 
 TARGET:
 ```
