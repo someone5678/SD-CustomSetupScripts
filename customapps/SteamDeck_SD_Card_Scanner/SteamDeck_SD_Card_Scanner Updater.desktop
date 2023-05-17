@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/run/media/mmcblk0p1/customapps/SteamDeck_SD_Card_Scanner/updater.sh
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en_US]=SteamDeck_SD_Card_Scanner Updater
+Name=SteamDeck_SD_Card_Scanner Updater
+Path=
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
