@@ -24,7 +24,7 @@ Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab
 </details>
 
 4. All of the system tinkering will use [rwfus](https://github.com/ValShaped/rwfus).
-
+5. After install MangoHud Flatpak, following [this guide](https://gitlab.com/popsulfr/steam-deck-tricks#gamescope-fps-limiter-not-working-on-flatpaks) in [Steam Deck Tricks](https://gitlab.com/popsulfr/steam-deck-tricks) repo to fix fps limiter in Gamescope
 # Other useful softwares
 
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader): A plugin loader for the Steam Deck. 
