@@ -1,0 +1,7 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Install Steam-Deck.Mount-External-Drive
+Exec=curl -sSL https://raw.githubusercontent.com/scawp/Steam-Deck.Mount-External-Drive/main/curl_install.sh | bash -s --
+Terminal=true
+Type=Application
+StartupNotify=false
