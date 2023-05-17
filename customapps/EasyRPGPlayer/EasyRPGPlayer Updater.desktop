@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Exec=/run/media/mmcblk0p1/customapps/EasyRPGPlayer/updater.sh
+GenericName[en_US]=
+GenericName=
+MimeType=
+Name[en_US]=EasyRPGPlayer Updater
+Name=EasyRPGPlayer Updater
+Path=
+StartupNotify=false
+Terminal=true
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
