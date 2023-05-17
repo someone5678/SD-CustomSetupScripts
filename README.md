@@ -29,3 +29,4 @@ Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab
 
 * [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader): A plugin loader for the Steam Deck. 
 * [EmuDeck](https://www.emudeck.com): Emulator configurator for Steam Deck.
+* [SteamDeck Refresh Rate Unlocker](https://github.com/ryanrudolfoba/SteamDeck-RefreshRateUnlocker): Unlock the display panel to use upto 70Hz refresh rate.
