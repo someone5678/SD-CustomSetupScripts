@@ -50,7 +50,7 @@ Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab
             </details>
 
 * Build/Install Scripts
-  * [Waydroid](https://github.com/waydroid) (Run ```build.sh``` after install and run [holo-docker](https://github.com/SteamDeckHomebrew/holo-docker) [image](https://github.com/SteamDeckHomebrew/holo-docker/pkgs/container/holo-base) on [DistroBox](https://github.com/89luca89/distrobox))
+  * [Waydroid](https://github.com/waydroid) (Run ```build.sh``` in [holo-docker](https://github.com/SteamDeckHomebrew/holo-docker) [image](https://github.com/SteamDeckHomebrew/holo-docker/pkgs/container/holo-base) via [DistroBox](https://github.com/89luca89/distrobox))
   * [AutoCpuFreq](https://github.com/AdnanHodzic/auto-cpufreq)
   * [preload](http://sourceforge.net/projects/preload)
 
@@ -90,6 +90,6 @@ Ref: [Steam Deck Tricks: Add konsole (terminal) to Steam Deck UI](https://gitlab
 
 # References
 
-* [vkbaslt install script](https://github.com/simons-public/steam-deck-vkbasalt-install) (Modified to install goverlay and it's dependencies using pkgs from [Chaotic-AUR](https://aur.chaotic.cx/))
+* [vkbasalt install script](https://github.com/simons-public/steam-deck-vkbasalt-install) (Modified to install goverlay and it's dependencies using pkgs from [Chaotic-AUR](https://aur.chaotic.cx/))
 * [japanese_locale_enabler](https://gist.github.com/XargonWan/cc660daf92c224b7241cbf5a2bf12c47) (Modified script to install other languages too)
 * [Steam Deck Tricks](https://gitlab.com/popsulfr/steam-deck-tricks) ([Waydroid](https://github.com/waydroid/waydroid), [AutoCpuFreq](https://github.com/AdnanHodzic/auto-cpufreq) build/install commands, and various guides. Adapted [AutoCpuFreq](https://github.com/AdnanHodzic/auto-cpufreq) build/install commands for [preload](http://sourceforge.net/projects/preload))
